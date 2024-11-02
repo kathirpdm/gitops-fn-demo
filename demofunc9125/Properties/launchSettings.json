@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "demofunc9125": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7143",
+      "launchBrowser": false
+    }
+  }
+}
